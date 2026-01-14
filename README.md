@@ -1,11 +1,16 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
-#Company name: CODTECH IT SOLUTIONS
-#Name: Sakkti Sri.M
-#Intern ID: CTIS0529
-#Selected for: Python Programming
-#Duration: 4 weeks
-#Internship Guide: Vaishali
+Company name: CODTECH IT SOLUTIONS
+
+Name: Sakkti Sri.M
+
+Intern ID: CTIS0529
+
+Selected for: Python Programming
+
+Duration: 4 weeks
+
+Internship Guide: Vaishali
 
 
 
